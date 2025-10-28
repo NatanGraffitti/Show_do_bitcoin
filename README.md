@@ -1,1 +1,1 @@
-# show_do_bitcoin.py
+Este e um projeto que roda em terminal chamado show do bitcoin, que utiliza uma API para solicitar as perguntas que ira aparecer, simula o jogo show do milhão mas neste a premiação seria dada no formato da criptomoeda, criado em Python.
