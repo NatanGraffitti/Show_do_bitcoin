@@ -1,4 +1,2 @@
 requests==2.32.3
 
-#BASH pip install -r requirements.txt
-#BASH python show_do_bitcoin.py
